@@ -144,7 +144,7 @@ echo "Status: Open for Internships related to Data Science & Software Engineerin
 ### `$ show --education`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Degree-B.Sc._(Hons)_Software_Engineering_(2024--2028)-dc2626?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bachelor's-BSc._(Hons)_Software_Engineering_(2024--2028)-dc2626?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Senior_High-STEM_Track_--_New_Era_University_(2024)-121212?style=for-the-badge&logo=school&logoColor=dc2626" />
 </p>
