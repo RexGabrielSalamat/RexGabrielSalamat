@@ -120,10 +120,14 @@ echo "Status: Open for Internships related to Data Science & Software Engineerin
 ### `$ cat leadership_and_experience.log`
 
 ```text
-[2024 - PRESENT] ACADEMIC MODULE REPRESENTATIVE — University of Stirling RAK
+[September 2024 - December 2025] ACADEMIC MODULE REPRESENTATIVE — University of Stirling - RAK Campus.
 • Served across 3 consecutive academic semesters facilitating faculty-student dialogue.
 • Advocated for student feedback across multiple software engineering modules.
-• Earned the My Stirling Award Bronze in recognition of leadership and student engagement.
+```
+
+```text
+[September 2026] ACADEMIC MODULE REPRESENTATIVE — University of Stirling - RAK Campus.
+• Currently serving in CSCU9M5, functioning as the liaison between professors and students.
 ```
 
 ---
